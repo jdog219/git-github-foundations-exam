@@ -1,4 +1,4 @@
 o    Important Notes for Project
 o    - Initial thought 1
-o    - Initial thought 2
+o    - Another thought 2 from branch 2
 
