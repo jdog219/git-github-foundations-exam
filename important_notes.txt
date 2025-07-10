@@ -1,4 +1,5 @@
 o    Important Notes for Project
 o    - Initial thought 1
 o    - Updated thought 2 for main
+o    - Another thought 2 from branch 2
 
